@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Josiah Gerald
 
-<!--
-**josiahking/josiahking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer with 14+ years of experience building, integrating,
+modernising and maintaining production web platforms.
 
-Here are some ideas to get you started:
+## Core expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP and Laravel backend engineering
+- REST API development and third-party integrations
+- Payment gateway and mobile-money integrations
+- WordPress plugin and theme development
+- MySQL and PostgreSQL
+- Testing, debugging and production support
+- Legacy-system modernisation
+- Linux, Docker and web infrastructure
+
+## Current focus
+
+I build maintainable business platforms across fintech, education,
+government services, export trade and digital commerce.
+
+I am currently open to remote Senior Backend Engineer, Backend PHP Developer,
+API Integration Engineer and backend-focused Full-Stack Engineer roles.
+
+## Featured work
+
+- **Africa Global Export Market** — Live export marketplace serving 5,000+ users
+- **EvolvePHP** — Custom PHP framework
+- **Mini Wallet App** — Laravel and Vue wallet platform
+- **Task Manager** — Laravel, Inertia.js, Vue, GraphQL and automated tests
+
+## Technologies
+
+PHP · Laravel · WordPress · MySQL · PostgreSQL · REST APIs · JavaScript ·
+Vue.js · React · Next.js · Docker · Linux · Git
+
+## Connect
+
+- LinkedIn: linkedin.com/in/josiah-g-0919763b
