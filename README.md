@@ -16,11 +16,9 @@ modernising and maintaining production web platforms.
 
 ## Current focus
 
-I build maintainable business platforms across fintech, education,
-government services, export trade and digital commerce.
+I build and modernise maintainable business platforms across fintech, education, government services, export trade and digital commerce.
 
-I am currently open to remote Senior Backend Engineer, Backend PHP Developer,
-API Integration Engineer and backend-focused Full-Stack Engineer roles.
+I am currently open to remote Senior Backend Engineer, Senior Laravel Engineer, API Integration Engineer and backend-focused Full-Stack Engineer roles.
 
 ## Featured work
 
