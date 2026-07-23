@@ -26,6 +26,7 @@ I am currently open to remote Senior Backend Engineer, Senior Laravel Engineer, 
 - **EvolvePHP** — Custom PHP framework
 - **Mini Wallet App** — Laravel and Vue wallet platform
 - **Task Manager** — Laravel, Inertia.js, Vue, GraphQL and automated tests
+- [Portfolio Case Studies](https://github.com/josiahking/portfolio-case-studies) — Detailed production case studies covering marketplace delivery and public-sector workflow modernisation
 
 ## Technologies
 
