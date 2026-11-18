@@ -15,7 +15,7 @@ I focus on dependable APIs, complex business workflows, third-party integrations
 | [AI-Powered Refund System](https://github.com/josiahking/ai_powered_customer_support_refund_system) | Laravel API, Next.js and PostgreSQL; AI-assisted analysis with deterministic refund decisions and auditability. [Demo](https://youtu.be/OQjiHYipylk). |
 | [University Education Management Portal](https://github.com/josiahking/uemp_assessment) | Laravel and PostgreSQL; department-scoped access control, academic workflows, result approval and TDD. [Demo](https://youtu.be/seueugivdvY). |
 | [Fintech App Demo](https://github.com/josiahking/fintechapp-demo) | Node.js, Express and MySQL; virtual accounts, payment webhooks, authentication and automated API tests. |
-| [Task Manager](https://github.com/josiahking/taskmanager) | Laravel, Inertia, Vue and GraphQL; authenticated project workflows, automated tests and CI. [Live demo](https://josiah-taskmanager.nue.dom.my.id/). |
+| [Task Manager](https://github.com/josiahking/taskmanager) | Laravel, Inertia, Vue and GraphQL; authenticated project workflows, automated tests and CI. |
 
 Several projects above began as technical assessments or portfolio demonstrations; their repositories document scope, implementation decisions and limitations.
 
