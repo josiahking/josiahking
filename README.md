@@ -10,7 +10,7 @@ I focus on dependable APIs, complex business workflows, third-party integrations
 
 | Project | Engineering focus |
 | --- | --- |
-| [EvolvePHP](https://github.com/josiahking/evolvephp) | Pre-release modular PHP framework; package architecture, contracts, testing and developer tooling. |
+| [EvolvePHP](https://github.com/josiahking/evolvephp) | Modular PHP framework; package architecture, contracts, testing and developer tooling. |
 | [Pixelforge Image Generation](https://github.com/josiahking/promptedit_ai_image_generation) | Laravel, Vue and TypeScript; asynchronous API integration, queues, signed webhooks, idempotency and billing reconciliation. |
 | [AI-Powered Refund System](https://github.com/josiahking/ai_powered_customer_support_refund_system) | Laravel API, Next.js and PostgreSQL; AI-assisted analysis with deterministic refund decisions and auditability. [Demo](https://youtu.be/OQjiHYipylk). |
 | [University Education Management Portal](https://github.com/josiahking/uemp_assessment) | Laravel and PostgreSQL; department-scoped access control, academic workflows, result approval and TDD. [Demo](https://youtu.be/seueugivdvY). |
